@@ -1,8 +1,15 @@
 ## model data
+(500 models from ShapeNet)
 unzip data.zip.001-data.zip.035
+(another 500 models from ShapeNet)
+unzip ShapeNet.zip.001-ShapeNet.zip.
+(400 models from Thingi10K)
+unzip Thingi10K.zip.001-Thingi10K.zip.039
 
 ## statistics of data
 data.xlsx
+ShapeNet.xlsx
+Thingi10K.xlsx
 
 ## notice
 the input model is named with _input_origin
