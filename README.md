@@ -2,7 +2,7 @@
 (500 models from ShapeNet)
 unzip data.zip.001-data.zip.035
 (another 500 models from ShapeNet)
-unzip ShapeNet.zip.001-ShapeNet.zip.
+unzip ShapeNet.zip.001-ShapeNet.zip.043
 (400 models from Thingi10K)
 unzip Thingi10K.zip.001-Thingi10K.zip.039
 
